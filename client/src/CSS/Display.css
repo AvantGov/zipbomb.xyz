@@ -1,11 +1,11 @@
 .Display {
     /* border: 5px solid #ffffff; */
     position: absolute;
-    top: 2%;
-    bottom: 2%;
+    top: 0;
+    bottom: 0;
     left: 2%;
     right: 2%;
-    height: 96%;
+    height: 100%;
     width: 96%;
     background-color: transparent;
     color: #FFFFFF;
@@ -28,5 +28,12 @@
 .Display {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+}
+
+@media only screen and (max-width: 800px) {
+    .Display {
+        height: 110%;
+        margin-bottom: 40%;
+    }
 }
 

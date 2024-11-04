@@ -1,11 +1,26 @@
-.link_TreeItem {
-    border: 1px solid green;
-    height: 100%;
-    width: 100%;
+.link__TreeItem {
+    /* border: 1px solid green; */
+    height: 36%;
+    width: 30%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin: 2% 0 2% 0;
+    padding: .5% .5% .5% .5%;
+    text-decoration: none;
+    font-family: 'Silkscreen', system-ui;
+    color: #5adf69;
+    font-weight: 900;
+    font-size: 3rem;
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(1.5px);    
+    transition: .2s ease-in-out;
+    border-radius: 25px;
+}
+
+.link__TreeItem:hover {
+    background-color: #5adf69;
+    color: #ffffff;
 }
 
 .TreeItem {
@@ -13,21 +28,59 @@
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .TreeItem__imgCont {
-    border: 2px solid maroon;
-    height: 200px;
-    width: 200px;
+    /* border: 1px solid maroon; */
+    height: 75px;
+    width: 75px;
+    object-fit: cover;
 }
 
+
+
 .TreeItem__contentContainer {
-    border: 2px solid green;
+    /* border: 1px solid purple; */
     height: 100%;
-    width: 80%;
+    width: 70%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+    .link__TreeItem {
+        margin-bottom: 5%;
+        width: 96%;
+        /* background-color: transparent; */
+        border: .75px solid #5adf69;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        background-color: rgba(255, 255, 255, .15);  
+        backdrop-filter: blur(50px);
+    }
+    
+    .TreeItem {
+        width: 96%;
+        color: #5adf69;
+    }
+
+    .link__TreeItem:hover > .TreeItem > .TreeItem__contentContainer{
+        color: #ffffff;
+    }
+
+    .TreeItem__contentContainer {
+        text-align: center;
+        width: 100%;
+        font-size: 2rem;
+        padding: 7% 0 7% 0;
+    }
+    
+    .TreeItem__imgCont {
+        display: none;
+    }
 }

@@ -2,26 +2,50 @@ export const treeData = [
     {
         id: "treeData_001",
         category: "streaming",
-        title: "listen on spotify",
+        title: "spotify",
         leade: "",
         url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
-        img: ""
+        img: "icons/spotify.png"
     },
     {
         id: "treeData_002",
         category: "streaming",
-        title: "listen on apple music",
+        title: "apple music",
         leade: "",
         url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
-        img: ""
+        img: "icons/applemusic.svg"
     },
     {
         id: "treeData_003",
         category: "streaming",
-        title: "listen on bandcamp",
+        title: "bandcamp",
         leade: "",
         url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
-        img: ""
+        img: "icons/bandcamp.png"
+    },
+    {
+        id: "treeData_005",
+        category: "streaming",
+        title: "youtube",
+        leade: "",
+        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
+        img: "icons/youtube.png"
+    },
+    {
+        id: "treeData_004",
+        category: "streaming",
+        title: "tidal",
+        leade: "",
+        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
+        img: "icons/tidal.png"
+    },
+    {
+        id: "treeData_006",
+        category: "social",
+        title: "instagram",
+        leade: "",
+        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
+        img: "icons/instagram.png"
     },
 ]
 

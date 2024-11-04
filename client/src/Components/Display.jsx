@@ -4,6 +4,7 @@ import React from 'react'
 // components 
 import Header from './Header';
 import TreeContainer from './TreeContainer';
+import ShowContainer from './ShowContainer.jsx';
 
 
 // css
@@ -17,6 +18,7 @@ const Display = () => {
         <div className='Display' id='Display'>
             <Header />
             <TreeContainer />
+            <ShowContainer />
         </div>
     )
 }

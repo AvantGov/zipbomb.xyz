@@ -4,12 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/libre-barcode-39-text": "^5.1.0",
+    "@fontsource/share-tech-mono": "^5.1.0",
+    "@fontsource/silkscreen": "^5.1.0",
+    "@fontsource/unifontex": "^5.1.0",
     "hydra-synth": "^1.3.29",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

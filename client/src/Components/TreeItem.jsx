@@ -10,9 +10,9 @@ const TreeItem = (props) => {
     const data = props.props
     
     return(
-        <a className="link_TreeItem" target="_blank" href={data.url}>
+        <a className="link__TreeItem" target="_blank" href={data.url}>
             <div className="TreeItem">
-                <div className="TreeItem__imgCont"></div>
+                <img className="TreeItem__imgCont" id={`image_${data.id}`} src={data.img} />
                 <div className="TreeItem__contentContainer">
                     <h2 className="containerContainer__title">{data.title}</h2>
                 </div>
