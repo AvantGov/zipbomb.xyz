@@ -1,0 +1,10 @@
+.Header {
+    height: 20%;
+    width: 100%;
+}
+
+.Header__image {
+    height: 250px;
+    width: 100%;
+    object-fit: contain;
+}
