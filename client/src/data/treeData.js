@@ -4,9 +4,7 @@ export const treeData = [
         category: "streaming",
         title: "listen on spotify",
         leade: "",
-        description: "",
-        information: "",
-        url: "",
+        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
         img: ""
     },
     {
@@ -14,9 +12,7 @@ export const treeData = [
         category: "streaming",
         title: "listen on apple music",
         leade: "",
-        description: "",
-        information: "",
-        url: "",
+        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
         img: ""
     },
     {
@@ -24,9 +20,7 @@ export const treeData = [
         category: "streaming",
         title: "listen on bandcamp",
         leade: "",
-        description: "",
-        information: "",
-        url: "",
+        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
         img: ""
     },
 ]
