@@ -17,7 +17,7 @@ const About = () => {
             <div className="About__pressContainer">
                 <img className="pressContainer__img" src="bandphoto.jpg" />
                 <div className="pressContainer__bulletContainer">
-                    <ul className="bulletCointainer__list">
+                    <ul className="bulletContainer__list">
                         <li className="list__listItem">
                             <a className="listItem__link" href="https://google.com/" target="_blank" rel="noopenner noreferrer">Electronic Press Kit (EPK)</a>
                         </li>

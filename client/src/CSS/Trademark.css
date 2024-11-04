@@ -2,11 +2,21 @@
     font-family: 'Libre Barcode 39 Text', system-ui; 
     font-size: 4rem;
     color: #5adf69;
-    width: 50%;
+    width: 30%;
     text-align: center;
     padding: 2% 0 1.25% 0;
     margin: 0 0 1% 0;
     background-color: rgba(255, 255, 255, 0.167);  
     backdrop-filter: blur(1.5px);
     border-radius: 50px;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .Trademark {
+        font-size: 2.4rem;
+        width: 70%;
+        padding: 5% 0 3% 0;
+        margin-bottom: 25%;
+    }
 }

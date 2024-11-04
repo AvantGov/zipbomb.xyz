@@ -23,7 +23,7 @@ export const upcomingShows = [
     },
     {
         id: "show_020225",
-        title: "the world is a beautiful place and i not longer afraid to die w/ .zipbomb, ithoughtitendedintokyo, iwrotehaikusaboutcannibalisminyouryearbook",
+        title: "snackcidents happen 2024",
         date: "Jul 31st",
         time: "7:00p",
         display: true,

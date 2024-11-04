@@ -10,7 +10,7 @@ const Trademark = () => {
 
     return(
         <div className="Trademark" id="Trademark">
-            AVANTGOV 2024 | PROCESS + PRODUCT
+            PROCESS + PRODUCT
         </div>
     )
 };

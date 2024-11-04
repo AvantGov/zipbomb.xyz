@@ -65,3 +65,42 @@
 .infoContainer__link:hover {
     color: #ffffff;
 }
+
+
+
+@media only screen and (max-width: 800px) {
+    .ShowItem {
+        flex-direction: column;
+        margin-top: 7%;
+        text-align: center;
+    }
+
+    .ShowItem__dateContainer {
+        width: 100%;
+        padding: 0 0 2% 0;
+    }
+
+    .infoContainer__title {
+        width: 100%;
+        font-weight: 600;
+        font-size: 2rem;
+        font-family: 'UnifontEX', monospace;
+        color: #5adf69;
+    }
+
+
+    .ShowItem__infoContainer {
+        border-left: none;
+        border-top: 1px solid #ffffff;
+    }
+
+    .infoContainer__warning {
+        width: 100%;
+        margin: 5% 0 3% 0;
+        padding: 3% 0 3% 0
+    }
+
+    .infoContainer__location {
+        font-size: 1.8rem;
+    }
+}
