@@ -25,7 +25,8 @@
     height: 100%;
     width: 80%;
     font-family: 'UnifontEX', monospace;
-
+    border-left: 2px solid #ffffff;
+    padding: .5% 0 .5% 1% ;
 }
 
 .infoContainer__title {
@@ -33,6 +34,8 @@
     font-size: 3rem;
     margin: 0 0 1% 0;
     line-height: 110%;
+    font-family: 'Silkscreen', system-ui;
+    letter-spacing: .75px;
 }
 
 .infoContainer__location {

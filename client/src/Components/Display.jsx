@@ -5,6 +5,8 @@ import React from 'react'
 import Header from './Header';
 import TreeContainer from './TreeContainer';
 import ShowContainer from './ShowContainer.jsx';
+import About from './About.jsx';
+import Trademark from './Trademark.jsx';
 
 
 // css
@@ -19,6 +21,8 @@ const Display = () => {
             <Header />
             <TreeContainer />
             <ShowContainer />
+            <About />
+            <Trademark />
         </div>
     )
 }

@@ -34,13 +34,13 @@ export const upcomingShows = [
     },
     {
         id: "show_020225",
-        title: "the world is a beautiful place and i not longer afraid to die w/ .zipbomb, ithoughtitendedintokyo, iwrotehaikusaboutcannibalisminyouryearbook",
+        title: "grouch, see no evil, .zipbomb, sock 'em",
         date: "Jan 30th",
         time: "7:00p",
         display: true,
         location: "The New Spot Downtown",
         city: "Sheboygan, WI",
-        information: "This show is outside and weather dependent. Show may be cancelled with less than one day notice. Tickets fully refundable.",
+        information: "",
         url: "https://google.com/"
     },
 
