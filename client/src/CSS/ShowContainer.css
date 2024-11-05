@@ -16,6 +16,7 @@
     height: 100%;
     width: 96%;
     padding: 2% 0 2% 0;
+    
 }
 
 .titleContainer__title {
@@ -28,5 +29,10 @@
     .ShowContainer {
         background-color: rgba(255, 255, 245, .25);  
         backdrop-filter: blur(2.5px);
+        padding-bottom: 5%;
+    }
+
+    .ShowContainer__titleContainer {
+        margin: 2% 0 0 0;
     }
 }

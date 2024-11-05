@@ -9,7 +9,19 @@
     justify-content: space-around;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1500px) {
+    .TreeContainer {
+        margin-top: 8%;
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    .TreeContainer{
+        margin-top: 12%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
     .TreeContainer {
         margin: 25% 0 0 0;
         flex-direction: column;
