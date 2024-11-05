@@ -25,6 +25,12 @@
     text-align: center;
 }
 
+.ShowContainer__nullReturn {
+    margin: 0 0 3% 0;
+    font-family: 'UnifontEX', monospace;
+    font-size: 2.4rem;
+}
+
 @media only screen and (max-width: 800px) {
     .ShowContainer {
         background-color: rgba(255, 255, 245, .25);  
@@ -34,5 +40,10 @@
 
     .ShowContainer__titleContainer {
         margin: 2% 0 0 0;
+    }
+
+    .ShowContainer__nullReturn {
+        margin-top: 4%;
+        font-weight: 900;
     }
 }

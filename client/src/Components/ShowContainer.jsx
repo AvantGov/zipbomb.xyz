@@ -20,11 +20,16 @@ const ShowContainer = () => {
                 <h1 className="titleContainer__title">Upcoming Shows</h1>
             </div>
             {
-                upcomingShows.map((item) => {
-                    return(
-                            <ShowItem props={item} key={item.id}/>
-                    )
-                })
+                upcomingShows.length > 0 ? 
+                    upcomingShows.map((item) => {
+                        return(
+                                <ShowItem props={item} key={item.id}/>
+                        )
+                    })
+                :
+                <div className="ShowContainer__nullReturn">
+                    <p className="nullReturn__copy">Announcing Soon .. </p>
+                </div>
             }
         </div>
     )
