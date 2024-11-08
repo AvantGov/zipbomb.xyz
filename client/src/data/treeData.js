@@ -28,7 +28,7 @@ export const treeData = [
         category: "streaming",
         title: "youtube",
         leade: "",
-        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
+        url: "https://www.youtube.com/watch?v=4dXUI8H2Vzc",
         img: "icons/youtube.png"
     },
     {
@@ -44,7 +44,7 @@ export const treeData = [
         category: "social",
         title: "instagram",
         leade: "",
-        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
+        url: "https://www.instagram.com/dotzipbombband/",
         img: "icons/instagram.png"
     },
 ]
