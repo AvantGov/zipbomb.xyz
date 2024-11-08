@@ -20,7 +20,7 @@ export const treeData = [
         category: "streaming",
         title: "bandcamp",
         leade: "",
-        url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
+        url: "https://zipbombband.bandcamp.com/album/v-a-a-s",
         img: "icons/bandcamp.png"
     },
     {
