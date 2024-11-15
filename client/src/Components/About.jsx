@@ -20,12 +20,12 @@ const About = () => {
                 <img className="pressContainer__img" src="bandphoto.jpg" />
                 <div className="pressContainer__bulletContainer">
                     <ul className="bulletContainer__list">
-                        <li className="list__listItem">
+                        {/* <li className="list__listItem">
                             <a className="listItem__link" href="https://google.com/" target="_blank" rel="noopenner noreferrer">Electronic Press Kit (EPK)</a>
-                        </li>
+                        </li> */}
 
                         <li className="list__listItem">
-                            <a className="listItem__link" href="https://google.com/" target="_blank" rel="noopenner noreferrer">zipbombband@gmail.com</a>
+                            <a className="listItem__link" href="mailto:zipbombband@gmail.com" target="_blank" rel="noopenner noreferrer">zipbombband@gmail.com</a>
                         </li>
 
                         <li className="list__listItem">

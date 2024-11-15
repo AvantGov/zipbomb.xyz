@@ -32,10 +32,14 @@
     width: 98%;
     font-size: 2.2rem;
     margin: 0 0 .75% 0;
+    font-weight: 600;
 }
 
 .pressContainer__img {
     height: 400px;
+    /* ! currently hiding until we get a band pic ! */
+    display: none;
+    /* ! */
 }
 
 .About__pressContainer {
@@ -45,16 +49,22 @@
     margin: 1% 0 0 0;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    /* ! CSS change to compensate for missing image ! */
+    justify-content: center;
+    text-align: center;
+    margin-top: 2%;
+    /* ! */
 }
 
 .pressContainer__bulletContainer {
     /* border: 1px solid white; */
     height: 100%;
-    width: 55%;
+    width: 100%;
     display: flex;
+    /* ! CSS change to compensate for missing image ! */
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
+    /* ! */
     padding: 0 0 0 2%;
 }
 
@@ -109,7 +119,8 @@
 
     .About__pressContainer {
         flex-direction: column;
-        margin: 5% 0 0 0;
+        /* ! upped margin to 7% for no photo ! */
+        margin: 7% 0 0 0;
     }
 
 
