@@ -67,18 +67,22 @@
         margin-bottom: 5%;
         width: 96%;
         /* background-color: transparent; */
-        border: .75px solid #5adf69;
+        border: .75px solid #ffffff;
         align-items: center;
         justify-content: center;
         border-radius: 5px;
-        background-color: rgba(255, 255, 255, .15);  
-        backdrop-filter: blur(150px);
+        background-color: rgba(255, 255, 255, .17.5);  
+        backdrop-filter: blur(100.5px);
         
+    }
+
+    .link__TreeItem:hover {
+        border: .75px solid #5adf69;
     }
     
     .TreeItem {
         width: 96%;
-        color: #5adf69;
+        color: #ffffff;
     }
 
     .link__TreeItem:hover > .TreeItem > .TreeItem__contentContainer{

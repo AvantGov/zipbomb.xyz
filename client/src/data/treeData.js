@@ -7,14 +7,14 @@ export const treeData = [
         url: "https://open.spotify.com/artist/72YQNLnea1NwKcOKf8jvPL?si=4Aw68DJZTNSv_RrwWO85DQ",
         img: "icons/spotify.png"
     },
-    // {
-    //     id: "treeData_002",
-    //     category: "streaming",
-    //     title: "apple music",
-    //     leade: "",
-    //     url: "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5?si=ce2ddb8d9da64297",
-    //     img: "icons/applemusic.svg"
-    // },
+    {
+        id: "treeData_002",
+        category: "streaming",
+        title: "apple music",
+        leade: "",
+        url: "https://music.apple.com/us/album/v-a-a-s-ep/1780137275",
+        img: "icons/applemusic.svg"
+    },
     {
         id: "treeData_003",
         category: "streaming",
