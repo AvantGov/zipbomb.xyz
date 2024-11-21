@@ -36,10 +36,8 @@
 }
 
 .pressContainer__img {
-    height: 400px;
-    /* ! currently hiding until we get a band pic ! */
-    display: none;
-    /* ! */
+    height: 600px;
+
 }
 
 .About__pressContainer {
@@ -125,7 +123,7 @@
 
 
     .pressContainer__img {
-        height: 175px;
+        height: 300px;
         margin: 5% 0 2% 0;
     }
 

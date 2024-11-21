@@ -1,14 +1,14 @@
 export const upcomingShows = [
-    // {
-    //     id: "show_011724",
-    //     title: "Change of Heart w/ .zipbomb, title fight, joie de vivre ",
-    //     date: "Jan 17th",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "Neighborhood House",
-    //     city: "Madison, WI",
-    //     information: "$15 DONATION (PWYC)",
-    //     url: ""
-    // },
+    {
+        id: "show_122924",
+        title: "The Loop Benefit show w/ nihilism, xablazex, .zipbomb, +MORE",
+        date: "Dec 29th",
+        time: "5:30p",
+        display: true,
+        location: "The Loop",
+        city: "Sun Prairie, WI",
+        information: "$10 DONATION AT THE DOOR",
+        url: "https://www.instagram.com/p/DCmj6wTp5N3/"
+    },
 
 ]
