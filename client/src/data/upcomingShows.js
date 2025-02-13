@@ -32,16 +32,16 @@ export const upcomingShows = [
     //     information: "$10 DONATION (NOTAFLOF)",
     //     url: "https://www.instagram.com/p/DDxRV6GpmYz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     // },
-    // {
-    //     id: "show_031125",
-    //     title: "chain of hatred w/ .zipbomb + more",
-    //     date: "March 11th",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "The Loop",
-    //     city: "Sun Praire, WI",
-    //     information: "$10 DONATION (NOTAFLOF)",
-    //     url: ""
-    // }
+    {
+        id: "show_031125",
+        title: "chain of hatred & eyesofsorrow w/ .zipbomb & all life gone",
+        date: "March 11th",
+        time: "7:00p",
+        display: true,
+        location: "The Loop",
+        city: "Sun Praire, WI",
+        information: "$10 DONATION (NOTAFLOF)",
+        url: ""
+    }
 
 ]
