@@ -32,16 +32,61 @@ export const upcomingShows = [
     //     information: "$10 DONATION (NOTAFLOF)",
     //     url: "https://www.instagram.com/p/DDxRV6GpmYz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     // },
+    // {
+    //     id: "show_031125",
+    //     title: "chain of hatred & eyesofsorrow w/ .zipbomb & all life gone",
+    //     date: "March 11th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "The Loop",
+    //     city: "Sun Praire, WI",
+    //     information: "$10 DONATION (NOTAFLOF)",
+    //     url: ""
+    // },
     {
-        id: "show_031125",
-        title: "chain of hatred & eyesofsorrow w/ .zipbomb & all life gone",
-        date: "March 11th",
+        id: "show_040325",
+        title: "Death Rattle w/ Litwax, Nihilism, & .Zipbomb",
+        date: "April 3rd",
         time: "7:00p",
         display: true,
         location: "The Loop",
         city: "Sun Praire, WI",
-        information: "$10 DONATION (NOTAFLOF)",
+        information: "$15 DONATION (NOTAFLOF)",
         url: ""
-    }
+    },
+    // {
+    //     id: "show_040425",
+    //     title: "YDSA Palestine Relief Benefit",
+    //     date: "April 4th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "TBD",
+    //     city: "Milwaukee, WI",
+    //     information: "$10 DONATION (NOTAFLOF)",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_051925",
+    //     title: "Ends of Sanity w/ .zipbomb +more",
+    //     date: "May 19th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "Cactus Club",
+    //     city: "Milwaukee, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_060525",
+    //     title: "Vow w/ Birdlaw, .zipbomb",
+    //     date: "Jun 5th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "X-Ray Arcade",
+    //     city: "Milwaukee, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    
 
 ]
