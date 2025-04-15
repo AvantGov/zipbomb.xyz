@@ -43,39 +43,28 @@ export const upcomingShows = [
     //     information: "$10 DONATION (NOTAFLOF)",
     //     url: ""
     // },
+    // {
+    //     id: "show_040325",
+    //     title: "Death Rattle w/ Litwax, Nihilism, & .Zipbomb",
+    //     date: "April 3rd",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "The Loop",
+    //     city: "Sun Praire, WI",
+    //     information: "$15 DONATION (NOTAFLOF)",
+    //     url: ""
+    // },
     {
-        id: "show_040325",
-        title: "Death Rattle w/ Litwax, Nihilism, & .Zipbomb",
-        date: "April 3rd",
+        id: "show_051925",
+        title: "Ends of Sanity w/ enervate, see no evil, ashamed, .zipbomb",
+        date: "May 19th",
         time: "7:00p",
         display: true,
-        location: "The Loop",
-        city: "Sun Praire, WI",
-        information: "$15 DONATION (NOTAFLOF)",
-        url: ""
+        location: "Cactus Club",
+        city: "Milwaukee, WI",
+        information: "",
+        url: "https://xrayarcade.com/calendar/2025/05/19/endsofsanity"
     },
-    // {
-    //     id: "show_040425",
-    //     title: "YDSA Palestine Relief Benefit",
-    //     date: "April 4th",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "TBD",
-    //     city: "Milwaukee, WI",
-    //     information: "$10 DONATION (NOTAFLOF)",
-    //     url: ""
-    // },
-    // {
-    //     id: "show_051925",
-    //     title: "Ends of Sanity w/ .zipbomb +more",
-    //     date: "May 19th",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "Cactus Club",
-    //     city: "Milwaukee, WI",
-    //     information: "",
-    //     url: ""
-    // },
     // {
     //     id: "show_060525",
     //     title: "Vow w/ Birdlaw, .zipbomb",
