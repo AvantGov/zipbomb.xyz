@@ -60,7 +60,7 @@ export const upcomingShows = [
         date: "May 19th",
         time: "7:00p",
         display: true,
-        location: "Cactus Club",
+        location: "X-Ray Arcade",
         city: "Milwaukee, WI",
         information: "",
         url: "https://xrayarcade.com/calendar/2025/05/19/endsofsanity"
