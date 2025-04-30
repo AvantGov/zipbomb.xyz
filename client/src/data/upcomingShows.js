@@ -65,17 +65,17 @@ export const upcomingShows = [
         information: "",
         url: "https://xrayarcade.com/calendar/2025/05/19/endsofsanity"
     },
-    // {
-    //     id: "show_060525",
-    //     title: "Vow w/ Birdlaw, .zipbomb",
-    //     date: "Jun 5th",
-    //     time: "7:00p",
-    //     display: true,
-    //     location: "X-Ray Arcade",
-    //     city: "Milwaukee, WI",
-    //     information: "",
-    //     url: ""
-    // },
+    {
+        id: "show_060525",
+        title: "Vow w/ Birdlaw, snag., blind equation, & .zipbomb",
+        date: "Jun 5th",
+        time: "7:00p",
+        display: true,
+        location: "X-Ray Arcade",
+        city: "Milwaukee, WI",
+        information: "",
+        url: ""
+    },
     
 
 ]
