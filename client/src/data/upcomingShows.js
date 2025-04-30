@@ -73,8 +73,8 @@ export const upcomingShows = [
         display: true,
         location: "X-Ray Arcade",
         city: "Milwaukee, WI",
-        information: "",
-        url: ""
+        information: "Floor Show!",
+        url: "https://xrayarcade.com/calendar/2025/06/05/birdlaw"
     },
     
 
