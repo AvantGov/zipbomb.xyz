@@ -65,28 +65,28 @@ export const upcomingShows = [
     //     information: "",
     //     url: "https://xrayarcade.com/calendar/2025/05/19/endsofsanity"
     // },
-    {
-        id: "show_052825",
-        title: "Rakuyo w/ .zipbomb, clear the gap, & deluminate",
-        date: "May 28th",
-        time: "6:30p",
-        display: true,
-        location: "Aubergine Community Space",
-        city: "Madison, WI",
-        information: "$10 PWYC",
-        url: "https://www.instagram.com/p/DJmqXtOvTsh/"
-    },
-    {
-        id: "show_060525",
-        title: "Vow w/ Birdlaw, snag., blind equation, & .zipbomb",
-        date: "Jun 5th",
-        time: "7:00p",
-        display: true,
-        location: "X-Ray Arcade",
-        city: "Milwaukee, WI",
-        information: "Floor Show!",
-        url: "https://xrayarcade.com/calendar/2025/06/05/birdlaw"
-    },
+    // {
+    //     id: "show_052825",
+    //     title: "Rakuyo w/ .zipbomb, clear the gap, & deluminate",
+    //     date: "May 28th",
+    //     time: "6:30p",
+    //     display: true,
+    //     location: "Aubergine Community Space",
+    //     city: "Madison, WI",
+    //     information: "$10 PWYC",
+    //     url: "https://www.instagram.com/p/DJmqXtOvTsh/"
+    // },
+    // {
+    //     id: "show_060525",
+    //     title: "Vow w/ Birdlaw, snag., blind equation, & .zipbomb",
+    //     date: "Jun 5th",
+    //     time: "7:00p",
+    //     display: true,
+    //     location: "X-Ray Arcade",
+    //     city: "Milwaukee, WI",
+    //     information: "Floor Show!",
+    //     url: "https://xrayarcade.com/calendar/2025/06/05/birdlaw"
+    // },
     {
         id: "show_071625",
         title: "Dis w/ .zipbomb, at the bottom of the great lakes, +more",
