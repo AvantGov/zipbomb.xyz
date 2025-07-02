@@ -99,7 +99,7 @@ export const upcomingShows = [
         url: ""
     },
     // {
-    //     id: "show_081625",
+    //     id: "show_081425",
     //     title: "815 Hardcore Showcase tour date",
     //     date: "Aug 16th",
     //     time: "4:00p",
@@ -110,7 +110,7 @@ export const upcomingShows = [
     //     url: "https://www.instagram.com/p/DKABUQfNL0z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     // },
     // {
-    //     id: "show_081625",
+    //     id: "show_081525",
     //     title: "815 Hardcore Showcase tour date",
     //     date: "Aug 16th",
     //     time: "4:00p",
@@ -130,6 +130,17 @@ export const upcomingShows = [
         city: "Kankakee, IL",
         information: "Festival Date",
         url: "https://www.instagram.com/p/DKABUQfNL0z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+        id: "show_091225",
+        title: "Church Tongue, Lockslip, Lower Heaven w/ Bird Law, .zipbomb, & ATBOTGL",
+        date: "Sep 12th",
+        time: "6:00p",
+        display: true,
+        location: "JJ's Bar & Grill",
+        city: "Milwaukee, WI",
+        information: "TICKETS ON SALE NOW",
+        url: "https://thebasementcollective.bigcartel.com/product/church-tongue-lockslip-lower-heaven-bird-law-zipbomb-at-the-bottom-of-the-great-lakes"
     },
     
 
