@@ -133,7 +133,7 @@ export const upcomingShows = [
     },
     {
         id: "show_091225",
-        title: "Church Tongue, Lockslip, Lower Heaven w/ Bird Law, .zipbomb, & ATBOTGL",
+        title: "Church Tongue, Lockslip, Lower Heaven w/ Bird Law, .zipbomb, & At The Bottom of the Great Lakes",
         date: "Sep 12th",
         time: "6:00p",
         display: true,
