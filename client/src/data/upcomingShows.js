@@ -89,14 +89,14 @@ export const upcomingShows = [
     // },
     {
         id: "show_071625",
-        title: "Dis w/ .zipbomb, at the bottom of the great lakes, +more",
+        title: "Dis w/ .zipbomb, at the bottom of the great lakes, sneer",
         date: "Jul 16th",
         time: "7:00p",
         display: true,
-        location: "Resevoir Park",
+        location: "ZAO Church",
         city: "Milwaukee, WI",
         information: "$10 PWYC",
-        url: ""
+        url: "https://www.instagram.com/p/DLxuTu8vCBT/"
     },
     // {
     //     id: "show_081425",
