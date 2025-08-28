@@ -120,17 +120,17 @@ export const upcomingShows = [
     //     information: "Festival Date",
     //     url: "https://www.instagram.com/p/DKABUQfNL0z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     // },
-    {
-        id: "show_081625",
-        title: "815 Hardcore Showcase",
-        date: "Aug 16th",
-        time: "4:00p",
-        display: true,
-        location: "Glueman Vintage",
-        city: "Kankakee, IL",
-        information: "Festival Date",
-        url: "https://www.instagram.com/p/DKABUQfNL0z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    },
+    // {
+    //     id: "show_081625",
+    //     title: "815 Hardcore Showcase",
+    //     date: "Aug 16th",
+    //     time: "4:00p",
+    //     display: true,
+    //     location: "Glueman Vintage",
+    //     city: "Kankakee, IL",
+    //     information: "Festival Date",
+    //     url: "https://www.instagram.com/p/DKABUQfNL0z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    // },
     {
         id: "show_091225",
         title: "Church Tongue, Lockslip, Lower Heaven w/ Bird Law, .zipbomb, & At The Bottom of the Great Lakes",
