@@ -142,6 +142,72 @@ export const upcomingShows = [
     //     information: "TICKETS ON SALE NOW",
     //     url: "https://thebasementcollective.bigcartel.com/product/church-tongue-lockslip-lower-heaven-bird-law-zipbomb-at-the-bottom-of-the-great-lakes"
     // },
+    // {
+    //     id: "show_100925",
+    //     title: "Setback, Nihilism, .Zipbomb, & Scaled",
+    //     date: "Oct 10th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "Highland Manor",
+    //     city: "Madison, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_012426",
+    //     title: "ATBOGL, .Zipbomb, Severance, Angelwithoutwings, Give Me A Reason",
+    //     date: "Jan 24th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "Blackhawk Room",
+    //     city: "Moline, IL",
+    //     information: "",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_030726",
+    //     title: "Tatto Shop Show",
+    //     date: "Mar 7th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "Tattoo Shop",
+    //     city: "Madison, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_032726",
+    //     title: "the sheltered w/ at the bottom of the great lakes, .zipbomb, vow",
+    //     date: "Mar 27th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "Casa Cafe",
+    //     city: "Chicago, IL",
+    //     information: "",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_032826",
+    //     title: ".zipbomb & at the bottom of the great lakes record release w/ glassdoll, severance, all life gone, & kali ma",
+    //     date: "Mar 28th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "James Reeb Unitarian Church",
+    //     city: "Madison, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    {
+        id: "show_041626",
+        title: "snuffed on sight w/ bayway, hold my own, see no evil, & .zipbomb",
+        date: "Apr 16th",
+        time: "6:00p",
+        display: true,
+        location: "X-Ray Arcade",
+        city: "Milwaukee, WI",
+        information: "TICKETS ON SALE NOW",
+        url: "https://xrayarcade.com/calendar/2026/04/16/snuffedonsight"
+    },
     
 
 ]
