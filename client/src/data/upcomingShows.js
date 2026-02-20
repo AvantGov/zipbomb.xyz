@@ -186,17 +186,17 @@ export const upcomingShows = [
     //     information: "",
     //     url: ""
     // },
-    // {
-    //     id: "show_032826",
-    //     title: ".zipbomb & at the bottom of the great lakes record release w/ glassdoll, severance, all life gone, & kali ma",
-    //     date: "Mar 28th",
-    //     time: "6:00p",
-    //     display: true,
-    //     location: "James Reeb Unitarian Church",
-    //     city: "Madison, WI",
-    //     information: "",
-    //     url: ""
-    // },
+    {
+        id: "show_032826",
+        title: ".zipbomb & at the bottom of the great lakes record release w/ glassdoll, severance, all life gone, & kali ma",
+        date: "Mar 28th",
+        time: "6:00p",
+        display: true,
+        location: "James Reeb Unitarian Church",
+        city: "Madison, WI",
+        information: "$15 PWYC",
+        url: ""
+    },
     {
         id: "show_041626",
         title: "snuffed on sight w/ bayway, hold my own, see no evil, & .zipbomb",
