@@ -175,17 +175,17 @@ export const upcomingShows = [
     //     information: "",
     //     url: ""
     // },
-    // {
-    //     id: "show_032726",
-    //     title: "the sheltered w/ at the bottom of the great lakes, .zipbomb, vow",
-    //     date: "Mar 27th",
-    //     time: "6:00p",
-    //     display: true,
-    //     location: "Casa Cafe",
-    //     city: "Chicago, IL",
-    //     information: "",
-    //     url: ""
-    // },
+    {
+        id: "show_032726",
+        title: "the sheltered w/ xnullifyx, at the bottom of the great lakes, .zipbomb, vow",
+        date: "Mar 27th",
+        time: "6:00p",
+        display: true,
+        location: "Casa Cafe",
+        city: "Chicago, IL",
+        information: "",
+        url: ""
+    },
     {
         id: "show_032826",
         title: ".zipbomb & at the bottom of the great lakes record release w/ glassdoll, severance, all life gone, & kali ma",
@@ -197,6 +197,17 @@ export const upcomingShows = [
         information: "$15 PWYC",
         url: ""
     },
+    // {
+    //     id: "show_041126",
+    //     title: "nihilism farewell show",
+    //     date: "April 11th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "TBD",
+    //     city: "Madison, WI",
+    //     information: "",
+    //     url: ""
+    // },
     {
         id: "show_041626",
         title: "snuffed on sight w/ bayway, hold my own, see no evil, & .zipbomb",
@@ -207,6 +218,39 @@ export const upcomingShows = [
         city: "Milwaukee, WI",
         information: "TICKETS ON SALE NOW",
         url: "https://xrayarcade.com/calendar/2026/04/16/snuffedonsight"
+    },
+    //{
+    //     id: "show_042526",
+    //     title: "ryder birthday show",
+    //     date: "Apr 25th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "TBD",
+    //     city: "Eau Claire, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    {
+        id: "show_050826",
+        title: "at the bottom of the great lakes & .zipbomb w/ do you bleed, wrath of sanity",
+        date: "May 8th",
+        time: "6:00p",
+        display: true,
+        location: "Helter Shelter",
+        city: "Des Moines, IA",
+        information: "$10 PWYC",
+        url: ""
+    },
+    {
+        id: "show_050926",
+        title: "Prowess Booking presents: Everybodys Here Fest",
+        date: "May 9th",
+        time: "2:00p",
+        display: true,
+        location: "The Petshop",
+        city: "Omaha, NE",
+        information: "set time: 8:30p",
+        url: ""
     },
     
 
