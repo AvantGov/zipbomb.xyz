@@ -175,28 +175,28 @@ export const upcomingShows = [
     //     information: "",
     //     url: ""
     // },
-    {
-        id: "show_032726",
-        title: "the sheltered w/ xnullifyx, at the bottom of the great lakes, .zipbomb, vow",
-        date: "Mar 27th",
-        time: "6:00p",
-        display: true,
-        location: "Casa Cafe",
-        city: "Chicago, IL",
-        information: "",
-        url: ""
-    },
-    {
-        id: "show_032826",
-        title: ".zipbomb & at the bottom of the great lakes record release w/ glassdoll, severance, all life gone, & kali ma",
-        date: "Mar 28th",
-        time: "6:00p",
-        display: true,
-        location: "James Reeb Unitarian Church",
-        city: "Madison, WI",
-        information: "$15 PWYC",
-        url: ""
-    },
+    // {
+    //     id: "show_032726",
+    //     title: "the sheltered w/ xnullifyx, at the bottom of the great lakes, .zipbomb, vow",
+    //     date: "Mar 27th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "Casa Cafe",
+    //     city: "Chicago, IL",
+    //     information: "",
+    //     url: ""
+    // },
+    // {
+    //     id: "show_032826",
+    //     title: ".zipbomb & at the bottom of the great lakes record release w/ glassdoll, severance, all life gone, & kali ma",
+    //     date: "Mar 28th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "James Reeb Unitarian Church",
+    //     city: "Madison, WI",
+    //     information: "$15 PWYC",
+    //     url: ""
+    // },
     // {
     //     id: "show_041126",
     //     title: "nihilism farewell show",
@@ -219,17 +219,6 @@ export const upcomingShows = [
         information: "TICKETS ON SALE NOW",
         url: "https://xrayarcade.com/calendar/2026/04/16/snuffedonsight"
     },
-    //{
-    //     id: "show_042526",
-    //     title: "ryder birthday show",
-    //     date: "Apr 25th",
-    //     time: "6:00p",
-    //     display: true,
-    //     location: "TBD",
-    //     city: "Eau Claire, WI",
-    //     information: "",
-    //     url: ""
-    // },
     {
         id: "show_050826",
         title: "at the bottom of the great lakes & .zipbomb w/ do you bleed, wrath of sanity",
@@ -252,6 +241,28 @@ export const upcomingShows = [
         information: "set time: 8:30p",
         url: ""
     },
+    //{
+    //     id: "show_062726",
+    //     title: "10 for $10 Hardcore Showcase",
+    //     date: "June 27th",
+    //     time: "1:00p",
+    //     display: true,
+    //     location: "X-Ray Arcade",
+    //     city: "Milwaukee, WI",
+    //     information: "",
+    //     url: ""
+    // },
+    //{
+    //     id: "show_082126",
+    //     title: "fallfiftyfeet w/ bird law, .zipbomb + more",
+    //     date: "Aug 21th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "MKE Ultra",
+    //     city: "Milwaukee, WI",
+    //     information: "",
+    //     url: ""
+    // },
     
 
 ]
