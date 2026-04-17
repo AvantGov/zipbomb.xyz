@@ -208,17 +208,17 @@ export const upcomingShows = [
     //     information: "",
     //     url: ""
     // },
-    {
-        id: "show_041626",
-        title: "snuffed on sight w/ bayway, hold my own, see no evil, & .zipbomb",
-        date: "Apr 16th",
-        time: "6:00p",
-        display: true,
-        location: "X-Ray Arcade",
-        city: "Milwaukee, WI",
-        information: "TICKETS ON SALE NOW",
-        url: "https://xrayarcade.com/calendar/2026/04/16/snuffedonsight"
-    },
+    // {
+    //     id: "show_041626",
+    //     title: "snuffed on sight w/ bayway, hold my own, see no evil, & .zipbomb",
+    //     date: "Apr 16th",
+    //     time: "6:00p",
+    //     display: true,
+    //     location: "X-Ray Arcade",
+    //     city: "Milwaukee, WI",
+    //     information: "TICKETS ON SALE NOW",
+    //     url: "https://xrayarcade.com/calendar/2026/04/16/snuffedonsight"
+    // },
     {
         id: "show_050826",
         title: "at the bottom of the great lakes & .zipbomb w/ do you bleed, wrath of sanity",
